@@ -274,7 +274,7 @@ img {
 
 
 /* Estilos para dispositivos móviles */
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 600px) {
   .title {
     font-size: 40px;
     margin-left: 20px;
